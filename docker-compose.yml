@@ -2,7 +2,6 @@
 # docker-compose run auto-gpt
 # NOTE: Version 3.9 requires at least docker-compose version 1.29.0 !
 version: "3.9"
-xxx
 
 services:
   auto-gpt:
